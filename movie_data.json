@@ -1,0 +1,169 @@
+{
+    "docs": [
+        {
+            "id": 4409,
+            "name": "Роза",
+            "alternativeName": "The Rose",
+            "enName": "",
+            "type": "movie",
+            "year": 1979,
+            "description": "Роза - певица, погрязшая в алкоголе и наркотиках, которые не сделали ее счастливее. Её парень Дайер пытается спасти Розу от саморазрушения.",
+            "shortDescription": "",
+            "movieLength": 134,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": "r",
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 1,
+            "status": null,
+            "names": [
+                {
+                    "name": "Роза"
+                },
+                {
+                    "name": "The Rose"
+                },
+                {
+                    "name": "A Rosa",
+                    "language": "BR",
+                    "type": null
+                }
+            ],
+            "externalId": {
+                "imdb": "tt0079826",
+                "tmdb": 16323,
+                "kpHD": null
+            },
+            "logo": {
+                "url": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1777765/4d200d76-2846-44de-b28a-e0602af3f3cf/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1777765/4d200d76-2846-44de-b28a-e0602af3f3cf/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 7.37,
+                "imdb": 6.9,
+                "filmCritics": 7.1,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 587,
+                "imdb": 9305,
+                "filmCritics": 23,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "genres": [
+                {
+                    "name": "драма"
+                },
+                {
+                    "name": "мелодрама"
+                },
+                {
+                    "name": "музыка"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "США"
+                }
+            ],
+            "releaseYears": []
+        },
+        {
+            "id": 647627,
+            "name": "Роза",
+            "alternativeName": "Rosa",
+            "enName": "",
+            "type": "cartoon",
+            "year": 2011,
+            "description": "В ближайшем будущем человечество исчезло, оставив после себя большой мегалополис, лишенный естественной жизни. После полной остановки жизни на планете пробуждается робот Роза, часть проекта «Зернышко» (KERNEL), последней попытки человечества восстановить экосистему земли, используя восстановленные образцы исчезнувших видов растений. Блуждая среди руин безжизненного города, Роза скоро обнаружит, что она не единственная, кто проснулся.",
+            "shortDescription": "",
+            "movieLength": 8,
+            "isSeries": false,
+            "ticketsOnSale": false,
+            "totalSeriesLength": null,
+            "seriesLength": null,
+            "ratingMpaa": null,
+            "ageRating": null,
+            "top10": null,
+            "top250": null,
+            "typeNumber": 3,
+            "status": null,
+            "names": [
+                {
+                    "name": "Роза"
+                },
+                {
+                    "name": "Rosa"
+                }
+            ],
+            "externalId": {
+                "kpHD": null,
+                "imdb": "tt1924365",
+                "tmdb": 78807
+            },
+            "logo": {
+                "url": null,
+                "previewUrl": null
+            },
+            "poster": {
+                "url": "https://image.openmoviedb.com/kinopoisk-images/1777765/c96a630d-96b0-4a32-8607-1684bb1c6b2b/orig",
+                "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1777765/c96a630d-96b0-4a32-8607-1684bb1c6b2b/x1000"
+            },
+            "backdrop": {
+                "url": null,
+                "previewUrl": null
+            },
+            "rating": {
+                "kp": 6.704,
+                "imdb": 6.5,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": null
+            },
+            "votes": {
+                "kp": 393,
+                "imdb": 489,
+                "filmCritics": 0,
+                "russianFilmCritics": 0,
+                "await": 0
+            },
+            "genres": [
+                {
+                    "name": "мультфильм"
+                },
+                {
+                    "name": "короткометражка"
+                },
+                {
+                    "name": "фантастика"
+                },
+                {
+                    "name": "боевик"
+                }
+            ],
+            "countries": [
+                {
+                    "name": "Испания"
+                }
+            ],
+            "releaseYears": []
+        }
+    ],
+    "total": 1000,
+    "limit": 2,
+    "page": 1,
+    "pages": 500
+}
